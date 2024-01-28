@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Hidden Markov Model (HMM) implementation notebook! 🌐📊
 
-This notebook demonstrates a simple yet powerful implementation of an HMM, a probabilistic model widely used in various applications, from weather prediction to natural language processing.
+This notebook demonstrates a simple yet powerful implementation using tensorflow of an HMM, a probabilistic model widely used in various applications, from weather prediction to natural language processing.
 
 ## Key Concepts
 - **Definition:** Learn about the core concepts of HMMs.
